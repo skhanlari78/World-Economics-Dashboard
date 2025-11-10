@@ -8,6 +8,9 @@
 The **World Economics Dashboard** is an interactive Power BI project designed to analyze and visualize key global economic indicators for the year **2025**.  
 It explores how countries and regions compare in terms of **GDP**, **GDP Growth**, **Inflation**, **Unemployment**, and **Population**, offering a clear view of global economic trends and disparities.
 
+<p align="center">
+  <img src="./World-Economics.jpg" alt="Spotify Dashboard Screenshot" width="85%">
+</p>
 ---
 
 ## 🧠 Objectives
