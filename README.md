@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 
-## 📊 Overview
+## Overview
 The **World Economics Dashboard** is an interactive Power BI project designed to analyze and visualize key global economic indicators for the year **2025**.  
 It explores how countries and regions compare in terms of **GDP**, **GDP Growth**, **Inflation**, **Unemployment**, and **Population**, offering a clear view of global economic trends and disparities.
 
@@ -13,23 +13,21 @@ It explores how countries and regions compare in terms of **GDP**, **GDP Growth*
 </p>
 ---
 
-## 🧠 Objectives
+## Objectives
 - Visualize and compare **economic performance** across regions and countries.  
 - Identify patterns and correlations between **Inflation**, **Unemployment**, and **GDP per Capita**.  
 - Explore **regional aggregates** and **population distribution** to better understand global economic balance.
 
----
 
-## 📈 Key Visualizations
+## Key Visualizations
 - **Population by Country (2025)** – global population overview.  
 - **Unemployment Rate by Region** – comparison of average unemployment levels across continents.  
 - **GDP and GDP Growth by Region** – insights into economic performance and growth trends.  
 - **Inflation vs Unemployment (Phillips Curve)** – relationship between inflation, unemployment, and GDP per capita.  
 - **Interactive Filters** – dynamic region and country selection for deep exploration.
 
----
 
-## 🗺️ Dataset
+## Dataset
 The dataset contains the following indicators for each country:
 
 | Feature | Description |
@@ -47,9 +45,8 @@ The dataset contains the following indicators for each country:
 - 🌎 22 subregions  
 - 👥 ~7.9 billion people (World Population)
 
----
 
-## ⚙️ Tools & Technologies
+## Tools & Technologies
 - **Microsoft Power BI Desktop** — dashboard creation & visualization  
 - **Excel / CSV** — data preprocessing and cleaning  
 - **Azure Maps API** — interactive map visualizations  
