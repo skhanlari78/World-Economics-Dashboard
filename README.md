@@ -11,7 +11,6 @@ It explores how countries and regions compare in terms of **GDP**, **GDP Growth*
 <p align="center">
   <img src="./World-Economics.jpg" alt="Spotify Dashboard Screenshot" width="85%">
 </p>
----
 
 ## Objectives
 - Visualize and compare **economic performance** across regions and countries.  
